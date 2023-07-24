@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "functions1,c": "c",
+        "2DARRAY.C": "cpp",
+        "ANISHDUMP.C": "cpp"
+    }
+}
